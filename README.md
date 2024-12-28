@@ -15,3 +15,11 @@ The app demonstrates the implementation of various React concepts, including:
 - Managing component state using the **useState Hook**
 - Debugging with **React Dev Tools**
 - Adding and managing **CSS styles**
+
+
+## Author
+Shaiful Islam
+
+## License
+This project is licensed under the MIT License.
+Thank you for checking out my project! Feel free to contribute or reach out for any inquiries. 🚀
