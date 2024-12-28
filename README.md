@@ -16,6 +16,9 @@ The app demonstrates the implementation of various React concepts, including:
 - Debugging with **React Dev Tools**
 - Adding and managing **CSS styles**
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/bba33af1-4e40-46c9-a300-4a47f8019f7c)
+
 
 ## Author
 Shaiful Islam
