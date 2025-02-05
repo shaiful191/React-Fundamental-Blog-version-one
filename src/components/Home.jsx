@@ -9,9 +9,8 @@ const Home = () => {
   ]);
 
   const handleDelete = (id) => {
-    const newBlogs = blogs.filter(blog => blog.id !== id);
-    setBlogs(newBlogs);
-  }
+  setBlogs((prevBlogs) => prevBlogs.filter((blog) => blog.id !== id));
+  };
 
 
   return (
